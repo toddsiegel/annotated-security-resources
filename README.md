@@ -1,4 +1,4 @@
-# Annotated Security Resources
+# Security Resources
 An curated list of resources for web security.
 
 ##SSL/TLS

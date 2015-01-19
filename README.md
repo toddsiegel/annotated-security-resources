@@ -2,9 +2,9 @@
 An curated list of resources for web security.
 
 ##General Crypto
-[SafeCurves:
+* [SafeCurves:
 choosing safe curves for elliptic-curve cryptography](http://safecurves.cr.yp.to/index.html)
-[OWASP Guide To Cryptography](https://www.owasp.org/index.php/Guide_to_Cryptography)
+* [OWASP Guide To Cryptography](https://www.owasp.org/index.php/Guide_to_Cryptography)
 
 ##SSL/TLS
 * [Staying on top of TLS attacks](http://blog.cloudflare.com/staying-on-top-of-tls-attacks/): Ciphersuites, forward secrecy and RC4 vulnerabilities.

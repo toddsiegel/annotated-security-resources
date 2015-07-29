@@ -15,5 +15,6 @@ choosing safe curves for elliptic-curve cryptography](http://safecurves.cr.yp.to
 [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html): Tips on securing SSH with discussion on Hacker News [here](https://news.ycombinator.com/item?id=8843994).
 
 ## Tools
-[HTTP Security Report](https://httpsecurityreport.com/): Analysis of a website based on HTTPS best practices
+* [HTTP Security Report](https://httpsecurityreport.com/): Analysis of a website based on HTTPS best practices
+* [Wireshark](https://www.wireshark.org): Network protocol analyzer
 

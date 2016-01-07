@@ -6,6 +6,9 @@ An curated list of resources for web security.
 choosing safe curves for elliptic-curve cryptography](http://safecurves.cr.yp.to/index.html)
 * [OWASP Guide To Cryptography](https://www.owasp.org/index.php/Guide_to_Cryptography)
 
+## Guides
+* [How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) How to protect against unsophisticated adversaries.
+
 ##SSL/TLS
 * [Staying on top of TLS attacks](http://blog.cloudflare.com/staying-on-top-of-tls-attacks/): Ciphersuites, forward secrecy and RC4 vulnerabilities.
 * [SSL/TLS & Perfect Forward Secrecy](http://vincent.bernat.im/en/blog/2011-ssl-perfect-forward-secrecy.html): Good article on forward secrecy, Diffie-Helman and eliptic curve cryptography. Inlcudes lots of links to other good sources.

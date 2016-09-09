@@ -6,6 +6,9 @@ An curated list of resources for web security.
 choosing safe curves for elliptic-curve cryptography](http://safecurves.cr.yp.to/index.html)
 * [OWASP Guide To Cryptography](https://www.owasp.org/index.php/Guide_to_Cryptography)
 
+## Web Application Security
+* [The Basics of Web Application Security](http://martinfowler.com/articles/web-security-basics.html) Excellent intro guide.
+
 ## Guides
 * [How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) How to protect against unsophisticated adversaries.
 
